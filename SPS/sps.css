@@ -1,0 +1,19 @@
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:bisque;
+}
+#Rock{
+    color: white;
+    background-color: blue;
+}
+#Paper{
+    color: white;
+    background-color: blue;
+}
+#Scissors{
+    color: white;
+    background-color: blue;
+}
